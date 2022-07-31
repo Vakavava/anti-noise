@@ -346,7 +346,7 @@ section{
 
 /*Home page*/
 .header{
-	background-image: url(../images/1.jpg);
+	background-image: url(../images/background.png);
 	height: 100vh;
 	position: relative;
 	min-height: 659px;
@@ -402,7 +402,7 @@ section{
 	line-height: 200%;
 }
 .expert .bg-img{
-	background-image: url(../images/2.jpg);
+	background-image: url(../images/shum.jpg);
 	background-position-x: 85%;
 	height: 100%;
 }
