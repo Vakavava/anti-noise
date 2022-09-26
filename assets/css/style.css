@@ -350,6 +350,11 @@ section{
 	min-height: 659px;
 }
 
+.cert{
+	width: 100%;
+    height: auto;
+}
+
 .intro-box{
 	height: 100vh;
 	display: table;
